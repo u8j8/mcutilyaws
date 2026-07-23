@@ -22,6 +22,6 @@
 ## credit:
 
 
-### tutinokoさん、socketbe
-### Scott Motteさん、Dotenv
-### Discord Engineering Teamさん、discord webhook
+### [tutinoko2048](https://github.com/tutinoko2048)さん、socketbe
+### [Scott Motte](https://github.com/motdotla)さん、Dotenv
+### [Discord Engineering Team](https://discord.com/category/engineering)さん、discord webhook
