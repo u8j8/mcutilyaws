@@ -1,0 +1,24 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "websocket util for minecraft",
+  "keywords": [
+    "minecraft",
+    "bedrock",
+    "server",
+    "websocket",
+    "ws"
+  ],
+  "license": "ISC",
+  "author": "tohoniki",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "readline": "^1.3.0",
+    "socket-be": "^2.6.0"
+  }
+}
