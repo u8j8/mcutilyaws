@@ -9,7 +9,7 @@
     "websocket",
     "ws"
   ],
-  "license": "ISC",
+  "license": "SEE LICENSE IN README.MD",
   "author": "tohoniki",
   "type": "module",
   "main": "main.js",

@@ -1,8 +1,12 @@
 # mcutilya ws
-## MCutilyaとは、tohonikiの作成したutilツール(utilya)系統のユーティル吊ツールです
+## MCutilyaとは、tohonikiの作成したutilツール(utilya)系統のユーティルツールです
 ### 実行方法
 1. `npm i` を実行
 2. `npm run run`又は`node main.js`を実行（るんるん（笑））
+## 機能
+1. マインクラフトからチャット、入出退出を表示
+2. 上記の物をdiscordに転送
+3. コンソールからコマンドを実行
 
 
 ## 利用規約
@@ -15,8 +19,8 @@
 * **[English]** **Commercial use is STRICTLY PROHIBITED.** (Non-commercial use only).
 
 ### 3. 自作発言・改変品の公開について / Claiming Ownership & Modifications
-* **[日本語]** 本作をベースにした作品を「自作」として公開・表記する場合は、必ず見える場所に `Base by [あなたの名前/プロジェクト名]` と明記してください。
-* **[English]** If you post or claim ownership of a modified version, you MUST visibly credit `Base by [Your Name/Project Name]`.
+* **[日本語]** 本作をベースにした作品を「自作」として公開・表記する場合は、必ず見える場所に `Base by [u8j8/utilya]` と明記してください。
+* **[English]** If you post or claim ownership of a modified version, you MUST visibly credit `Base by [u8j8/utilya]`.
 
 
 ## credit:
